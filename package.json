@@ -1,28 +1,27 @@
 {
   "name": "tilelive-s3simple",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./lib/index.js",
   "scripts": {
   },
+  "repository": "trailbehind/tilelive-s3simple",
   "dependencies": {
-    "AWS": "~2.1.45"
+    "aws-sdk": "^2.2.40"
   },
   "devDependencies": {
   },
   "readme": "# tilelive-s3simple\n\nReads/writes tiles and grids from/to AWS s3. This module is intended to be used with [tilelive.js](https://github.com/mapbox/tilelive.js).\n",
   "readmeFilename": "README.md",
-  "_id": "tilelive-s3simple@0.0.1",
   "description": "Reads/writes tiles and grids from/to AWS s3. This module is intended to be used with [tilelive.js](https://github.com/mapbox/tilelive.js).",
-  "_npmVersion": "1.1.66",
   "_npmUser": {
     "name": "jessecrocker",
     "email": "jesse@gaiagps.com"
   },
+  "license": "MIT",
   "maintainers": [
     {
       "name": "JesseCrocker",
       "email": "jesse@gaiagps.com"
     }
-  ],
-  "directories": {}
+  ]
 }
