@@ -1,2 +1,2 @@
-# tilelive-s3simple
-tilelive.js adapter for reading for reading and writing to AWS s3
+# Deprecated
+This module is no longer needed, since the unnecesary complexity has been removed from https://github.com/mapbox/tilelive-s3. Use tilelive-s3 instead.
